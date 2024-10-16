@@ -1,0 +1,7 @@
+# Normaliza los saltos de línea para los archivos de texto
+* text=auto
+
+# Asegura LF en archivos de Unity
+*.mat text eol=lf
+*.shader text eol=lf
+*.cs text eol=lf
